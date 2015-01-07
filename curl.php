@@ -1,5 +1,6 @@
 <?php
 
+// URL que será gerada no site Requestb.in
 $url = "http://requestb.in/1mxd5oo1";
 $data = array("nome" => "Joaozinho", "email" => "Joaozinho@example.com");
 
