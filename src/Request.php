@@ -2,10 +2,10 @@
 /**
 * 
 */
-class ClassName
+class Request
 {
 	
-	function __construct(argument)
+	function __construct()
 	{
 		
 	}
